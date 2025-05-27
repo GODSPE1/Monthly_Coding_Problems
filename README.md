@@ -34,38 +34,6 @@ Monthly_Coding_Problems/
 └── README.md
 ```
 
-Choose a structure that best suits your workflow.
-
-## Daily Log Template
-
-You can use the following template for each problem\'s `README.md`:
-
-```markdown
-# Problem: [Problem Name/Link to Problem]
-
-**Date:** YYYY-MM-DD
-
-**Language:** [Programming Language Used]
-
-## Description
-
-[Brief description of the problem]
-
-## Approach
-
-[Explanation of the approach used to solve the problem]
-
-## Solution
-
-\`\`\`[language_extension]
-// Your code here
-\`\`\`
-
-## Learnings/Challenges
-
-[Any key takeaways, new concepts learned, or challenges faced]
-```
-
 ## How to Contribute (Optional)
 
 If you\'d like to contribute:
